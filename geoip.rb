@@ -44,3 +44,4 @@ ticker +=1
 percent = 100 * (ticker/count)
 puts percent
 end
+con.close
